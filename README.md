@@ -1,2 +1,1 @@
-# Kenai_Mendon-a_2024336_Ex01-mondrian-parteB
-Exercício 01 — Mondrian, Parte B | Design de Inovação
+Para a aplicação da variante random, eu alterei os valores de preenchimento RGB de cor para aleatorizar cada uma delas. 
